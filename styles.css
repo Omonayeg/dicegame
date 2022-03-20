@@ -37,12 +37,14 @@ button {
   text-align: center;
   display: block;
   min-height: 54px;
-  min-width: 50px;
+  min-width: 100px;
   color: black;
   background-color: #4ECCA3;
-  padding: 20px;
+  padding: 50px;
   border-radius: 20px;
   font-weight: 900;
+  font-size: 2rem;
+
 
 }
 footer {
