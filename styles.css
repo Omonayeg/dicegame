@@ -1,6 +1,7 @@
 .container {
-  width: 70%;
-  margin: auto;
+ 
+  width: 80%;
+  margin: 10% auto;
   text-align: center;
 }
 
@@ -33,7 +34,7 @@ img {
 }
 
 button {
-  margin: 4% auto;
+  margin: 7% auto;
   text-align: center;
   display: block;
   min-height: 54px;
